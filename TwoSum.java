@@ -13,7 +13,7 @@ public class TwoSum {
        
     }
 	
-	System.out.println();
+    System.out.println();
     System.out.print ("Enter the TARGET number : ");
     int target = sc.nextInt();
 
